@@ -2,6 +2,21 @@
 
 Streamlit-based trading bot optimized for small accounts ($70-$100 starting capital).
 
+## 🇺🇸 USA Regulatory Compliant
+
+**MADE FOR US TRADERS - HARD TO FIND, FULLY COMPLIANT**
+
+This bot is specifically designed to meet US regulatory requirements:
+- ✅ **SPOT TRADING ONLY** (no futures, no derivatives)
+- ✅ **LONG POSITIONS ONLY** (no shorting)
+- ✅ **NO LEVERAGE** (100% compliant with US regulations)
+- ✅ **US EXCHANGES ONLY** (Binance US)
+- ✅ **Regulatory Compliant** for US retail traders
+
+**Perfect for US traders with micro-capital accounts!** One of the few truly USA-compliant automated trading bots available.
+
+---
+
 ## Features
 
 - **Micro-Capital Optimized**: Tuned for accounts under $100
