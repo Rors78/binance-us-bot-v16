@@ -1,0 +1,6 @@
+
+streamlit>=1.36.0
+ccxt>=4.2.90
+pandas>=2.2.2
+numpy>=1.26.4
+keyring>=24.2.0
